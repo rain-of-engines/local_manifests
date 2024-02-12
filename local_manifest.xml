@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+
+<!-- Tracking -->
+  <remote name="track" fetch="https://github.com" />
+
+<!-- Additional -->
+  <project path="hardware/motorola" name="LineageOS/android_hardware_motorola" remote="track" revision="lineage-20" />
+  <project path="external/bson" name="LineageOS/android_external_bson" remote="track" revision="lineage-20" />
+  <project path="system/qcom" name="LineageOS/android_system_qcom" remote="track" revision="lineage-20" />
+  <project path="device/motorola/targets" name="rain-of-engines/android_device_motorola_targets" remote="track" revision="master" />
+
+<!-- Trees -->
+  <project path="device/motorola/beckham" name="rain-of-engines/android_device_motorola_beckham" remote="track" revision="lineage-20" />
+  <project path="device/motorola/evert" name="rain-of-engines/android_device_motorola_evert" remote="track" revision="lineage-20" />
+  <project path="device/motorola/lake" name="rain-of-engines/android_device_motorola_lake" remote="track" revision="lineage-20" />
+  <project path="device/motorola/nash" name="rain-of-engines/android_device_motorola_nash" remote="track" revision="lineage-20" />
+  <project path="device/motorola/msm8998-common" name="rain-of-engines/device_motorola_msm8998-common" remote="track" revision="lineage-20" />
+
+<!-- Vendors -->
+  <project path="vendor/motorola/beckham" name="rain-of-engines/android_vendor_motorola_beckham" remote="track" revision="lineage-20" />
+  <project path="vendor/motorola/evert" name="rain-of-engines/android_vendor_motorola_evert" remote="track" revision="lineage-20" />
+  <project path="vendor/motorola/lake" name="rain-of-engines/android_vendor_motorola_lake" remote="track" revision="lineage-20" />
+  <project path="vendor/motorola/nash" name="rain-of-engines/android_vendor_motorola_nash" remote="track" revision="lineage-20" />
+  <project path="vendor/motorola/msm8998-common" name="rain-of-engines/vendor_motorola_msm8998-common" remote="track" revision="lineage-20" />
+
+<!-- Kernel -->
+  <project path="kernel/motorola/msm8998" name="rain-of-engines/android_kernel_motorola_msm8998" remote="track" revision="lineage-20" />
+
+</manifest>
