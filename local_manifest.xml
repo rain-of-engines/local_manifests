@@ -11,20 +11,18 @@
   <project path="device/motorola/targets" name="rain-of-engines/android_device_motorola_targets" remote="track" revision="master" />
 
 <!-- Trees -->
-  <project path="device/motorola/beckham" name="rain-of-engines/android_device_motorola_beckham" remote="track" revision="lineage-20" />
-  <project path="device/motorola/evert" name="rain-of-engines/android_device_motorola_evert" remote="track" revision="lineage-20" />
-  <project path="device/motorola/lake" name="rain-of-engines/android_device_motorola_lake" remote="track" revision="lineage-20" />
-  <project path="device/motorola/nash" name="rain-of-engines/android_device_motorola_nash" remote="track" revision="lineage-20" />
-  <project path="device/motorola/msm8998-common" name="rain-of-engines/device_motorola_msm8998-common" remote="track" revision="lineage-20" />
+  <project path="device/motorola/beckham" name="rain-of-engines/android_device_motorola_beckham" remote="track" revision="tiramisu" />
+  <project path="device/motorola/evert" name="rain-of-engines/android_device_motorola_evert" remote="track" revision="tiramisu" />
+  <project path="device/motorola/lake" name="rain-of-engines/android_device_motorola_lake" remote="track" revision="tiramisu" />
+  <project path="device/motorola/sdm660-common" name="rain-of-engines/device_motorola_sdm660-common" remote="track" revision="tiramisu" />
 
 <!-- Vendors -->
-  <project path="vendor/motorola/beckham" name="rain-of-engines/android_vendor_motorola_beckham" remote="track" revision="lineage-20" />
-  <project path="vendor/motorola/evert" name="rain-of-engines/android_vendor_motorola_evert" remote="track" revision="lineage-20" />
-  <project path="vendor/motorola/lake" name="rain-of-engines/android_vendor_motorola_lake" remote="track" revision="lineage-20" />
-  <project path="vendor/motorola/nash" name="rain-of-engines/android_vendor_motorola_nash" remote="track" revision="lineage-20" />
-  <project path="vendor/motorola/msm8998-common" name="rain-of-engines/vendor_motorola_msm8998-common" remote="track" revision="lineage-20" />
+  <project path="vendor/motorola/beckham" name="rain-of-engines/android_vendor_motorola_beckham" remote="track" revision="tiramisu" />
+  <project path="vendor/motorola/evert" name="rain-of-engines/android_vendor_motorola_evert" remote="track" revision="tiramisu" />
+  <project path="vendor/motorola/lake" name="rain-of-engines/android_vendor_motorola_lake" remote="track" revision="tiramisu" />
+  <project path="vendor/motorola/sdm660-common" name="rain-of-engines/vendor_motorola_sdm660-common" remote="track" revision="tiramisu" />
 
 <!-- Kernel -->
-  <project path="kernel/motorola/msm8998" name="rain-of-engines/android_kernel_motorola_msm8998" remote="track" revision="lineage-20" />
+  <project path="kernel/motorola/sdm660" name="rain-of-engines/android_kernel_motorola_sdm660" remote="track" revision="tiramisu" />
 
 </manifest>
