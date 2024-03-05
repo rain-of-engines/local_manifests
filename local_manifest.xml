@@ -5,24 +5,22 @@
   <remote name="track" fetch="https://github.com" />
 
 <!-- Additional -->
-  <project path="hardware/motorola" name="LineageOS/android_hardware_motorola" remote="track" revision="lineage-20" />
-  <project path="external/bson" name="LineageOS/android_external_bson" remote="track" revision="lineage-20" />
-  <project path="system/qcom" name="LineageOS/android_system_qcom" remote="track" revision="lineage-20" />
+  <project path="hardware/motorola" name="rain-of-engines/android_hardware_motorola" remote="track" revision="topaz" />
   <project path="device/motorola/targets" name="rain-of-engines/android_device_motorola_targets" remote="track" revision="master" />
 
 <!-- Trees -->
-  <project path="device/motorola/beckham" name="rain-of-engines/android_device_motorola_beckham" remote="track" revision="tiramisu" />
-  <project path="device/motorola/evert" name="rain-of-engines/android_device_motorola_evert" remote="track" revision="tiramisu" />
-  <project path="device/motorola/lake" name="rain-of-engines/android_device_motorola_lake" remote="track" revision="tiramisu" />
-  <project path="device/motorola/sdm660-common" name="rain-of-engines/device_motorola_sdm660-common" remote="track" revision="tiramisu" />
+  <project path="device/motorola/beckham" name="rain-of-engines/android_device_motorola_beckham" remote="track" revision="topaz" />
+  <project path="device/motorola/evert" name="rain-of-engines/android_device_motorola_evert" remote="track" revision="topaz" />
+  <project path="device/motorola/lake" name="rain-of-engines/android_device_motorola_lake" remote="track" revision="topaz" />
+  <project path="device/motorola/sdm660-common" name="rain-of-engines/device_motorola_sdm660-common" remote="track" revision="topaz" />
 
 <!-- Vendors -->
   <project path="vendor/motorola/beckham" name="rain-of-engines/android_vendor_motorola_beckham" remote="track" revision="tiramisu" />
   <project path="vendor/motorola/evert" name="rain-of-engines/android_vendor_motorola_evert" remote="track" revision="tiramisu" />
   <project path="vendor/motorola/lake" name="rain-of-engines/android_vendor_motorola_lake" remote="track" revision="tiramisu" />
-  <project path="vendor/motorola/sdm660-common" name="rain-of-engines/vendor_motorola_sdm660-common" remote="track" revision="tiramisu" />
+  <project path="vendor/motorola/sdm660-common" name="rain-of-engines/vendor_motorola_sdm660-common" remote="track" revision="topaz" />
 
 <!-- Kernel -->
-  <project path="kernel/motorola/sdm660" name="rain-of-engines/android_kernel_motorola_sdm660" remote="track" revision="tiramisu" />
+  <project path="kernel/msm-4.4" name="rain-of-engines/android_kernel_motorola_sdm660" remote="track" revision="topaz" />
 
 </manifest>
