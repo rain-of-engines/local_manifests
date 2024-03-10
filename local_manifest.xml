@@ -15,9 +15,9 @@
   <project path="device/motorola/sdm660-common" name="rain-of-engines/device_motorola_sdm660-common" remote="track" revision="topaz" />
 
 <!-- Vendors -->
-  <project path="vendor/motorola/beckham" name="rain-of-engines/android_vendor_motorola_beckham" remote="track" revision="tiramisu" />
-  <project path="vendor/motorola/evert" name="rain-of-engines/android_vendor_motorola_evert" remote="track" revision="tiramisu" />
-  <project path="vendor/motorola/lake" name="rain-of-engines/android_vendor_motorola_lake" remote="track" revision="tiramisu" />
+  <project path="vendor/motorola/beckham" name="rain-of-engines/android_vendor_motorola_beckham" remote="track" revision="topaz" />
+  <project path="vendor/motorola/evert" name="rain-of-engines/android_vendor_motorola_evert" remote="track" revision="topaz" />
+  <project path="vendor/motorola/lake" name="rain-of-engines/android_vendor_motorola_lake" remote="track" revision="topaz" />
   <project path="vendor/motorola/sdm660-common" name="rain-of-engines/vendor_motorola_sdm660-common" remote="track" revision="topaz" />
 
 <!-- Kernel -->
